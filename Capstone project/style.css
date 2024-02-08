@@ -1,0 +1,112 @@
+.gradient-background{
+    background:linear-gradient(300deg,#EEEDEB,#FAE7F3,#E0CCBE);
+    height:700px;
+    width:100%;
+}
+
+.para{
+    display:block;
+    font-size:medium;
+    text-align:center;
+    justify-content: center;
+    font-size:2rem;
+
+}
+.photo{
+     border-radius:100%;
+    display:block;
+    text-align:center;
+    align-content: center;
+    margin-block-start: 3.45em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+   
+}
+.hello{
+    padding-top:30px;
+    color: #66bfbf;
+    font-family: "Montserrat", sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+.intro{
+    padding-top:20px;
+    color:#9BB8CD;
+}
+.dot{
+    border:dotted;
+    width:40px;
+    color:#EEEDEB;
+    margin-block-start: 0.5em;
+    margin-block-end: 0.5em;
+    margin-inline-start: auto;
+    margin-inline-end: auto;
+    
+    
+}
+.head{
+    display:flex;
+    color: #66bfbf;
+    font-family: "Montserrat", sans-serif;
+    justify-content:center;
+    padding-top:30px;
+    padding-bottom:70px;
+}
+.typing{
+    display:grid;
+    grid-template-columns:0.5fr 1fr;
+    grid-template-rows:repeat(1,1fr);
+    align-items: left;
+}
+.cat{
+    padding-left:350px;
+}
+.container{
+    display:grid;
+    justify-content: center;;
+    align-items: center;
+
+}
+.connect{
+    display:grid;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-left:500px;
+    padding-top:100px;
+    padding-bottom:100px;
+    
+}
+.touch{
+    padding-left:90px;
+    color: #66bfbf;
+    font-family: "Montserrat", sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+}
+.pa{
+    font-size:1rem;
+    padding-left:90px;
+    color: #66bfbf;
+    font-family: "Montserrat", sans-serif;
+    font-weight: normal;
+    padding-top:30px;
+}
+.para2{
+    font-size:1rem;
+    padding-left:90px;
+    color: rgb(0, 3, 3);
+    font-family: "Montserrat", sans-serif;
+    padding-top:30px;
+}
+.shift{
+    padding-left:600px;
+}
+
+.contact{
+    background: #11cdd4;
+
+}
